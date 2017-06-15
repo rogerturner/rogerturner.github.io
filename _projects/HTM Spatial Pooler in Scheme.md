@@ -1,5 +1,4 @@
 ---
-title: "Hierarchical Temporal Memory experiments"
 collection: projects
 ---
 
