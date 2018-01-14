@@ -82,13 +82,8 @@
   }
 
   img {
-<<<<<<< HEAD
     max-width: 140px;
     border-radius: 10%;
-=======
-    max-width: 175px;
-    border-radius: 50%;
->>>>>>> academicpages/master
 
     @include breakpoint($large) {
       padding: 5px;
