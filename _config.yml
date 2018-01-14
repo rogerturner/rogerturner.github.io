@@ -80,21 +80,21 @@ analytics:
 author:
   name             : "Roger Turner"
   avatar           : "profile.png"
-<<<<<<< HEAD
+# <<<<<<< HEAD
   bio              : " "
   location         : "Gdańsk, Poland"
   employer         : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : 
   uri              : 
-=======
+# =======
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
->>>>>>> academicpages/master
+# >>>>>>> academicpages/master
   bitbucket        :
   codepen          :
   dribbble         :
@@ -235,12 +235,12 @@ defaults:
       layout: single
       author_profile: false
       share: true
-<<<<<<< HEAD
+# <<<<<<< HEAD
       comments: true
       
-=======
+# =======
 
->>>>>>> academicpages/master
+# >>>>>>> academicpages/master
 # Sass/SCSS
 sass:
   sass_dir: _sass
