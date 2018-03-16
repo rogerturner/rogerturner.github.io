@@ -1,6 +1,7 @@
 ---
 collection: publications
 link: /files/Strehler 1991 p54-57.pdf
+title: Extract from Strehler 1991
 ---
 
 [Extract](/files/Strehler 1991 p54-57.pdf) from [Strehler (1991) Where is the Self? A Neuroanatomical Theory of Consciousness](https://doi.org/10.1002/syn.890070105)
